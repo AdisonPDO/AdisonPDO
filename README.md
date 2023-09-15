@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/adison-pereira-de-oliveira/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 👨‍💻 Developer - Master 2 at Epitech (last year)
+<br/>
 🌍 South of France
 
 ### Skills 🛠️
