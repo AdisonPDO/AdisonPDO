@@ -1,6 +1,17 @@
 ### Hi there, I'm [Adison](https://github.com/AdisonPDO) ☝️
 <a href="https://www.linkedin.com/in/adison-pereira-de-oliveira/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+### Skills 🛠️
+<img align="left" alt="Apple" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" />
+<img align="left" alt="Kotlin" width="25px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
+<img align="left" alt="Typescript" width="23px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+<img align="left" alt="Flutter" width="23px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<img align="left" alt="Node.js" width="49px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+<img align="left" alt="JavaScript" width="23px" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg />
+<img align="left" alt="React.js" width="23px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="Python" width="23px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+
+
 
 # AdisonPro
 <div align="center">
