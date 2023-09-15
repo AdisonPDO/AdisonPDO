@@ -1,6 +1,10 @@
 ### Hi there, I'm [Adison](https://github.com/AdisonPDO) ☝️
 <a href="https://www.linkedin.com/in/adison-pereira-de-oliveira/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+# 👨‍💻 Developer - Master 2 at Epitech (last year)
+
+# 🌍 South of France
+
 ### Skills 🛠️
 <div>
 <img align="left" alt="Apple" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" />
@@ -12,7 +16,7 @@
 <img align="left" alt="React.js" width="23px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Python" width="23px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> 
 </div>
-
+<br/>
 
 # AdisonPro
 <div align="center">
