@@ -18,14 +18,17 @@
 </div>
 <br/>
 
+
 # AdisonPro
 <div align="center">
  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdisonP&show_icons=true&layout=compact&theme=algolia" alt="AdisonP's github stats" />
- <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdisonP" />
+<br/>
+ <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdisonP&show_icons=true&layout=compact&theme=algolia" />
 </div>
 
 # AdisonPdo
 <div align="center">
  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdisonPDO&show_icons=true&layout=compact&theme=algolia" alt="AdisonPDO's github stats" />
- <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdisonPDO" />
+ <br/>
+ <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdisonPDO&show_icons=true&layout=compact&theme=algolia" />
 </div>
